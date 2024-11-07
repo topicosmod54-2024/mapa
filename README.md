@@ -13,3 +13,6 @@ Outro benefício da IC é a redução do risco de regressões. Quando as altera�
 Além disso, a IC promove uma maior colaboração entre os membros da equipe de desenvolvimento. Ao integrar o código com frequência, os desenvolvedores têm a oportunidade de revisar o trabalho uns dos outros e fornecer feedback em tempo real. Isso ajuda a melhorar a qualidade do código e promove um ambiente de trabalho mais colaborativo.
 
 Em resumo, a **integração contínua** desempenha um papel fundamental no processo de desenvolvimento ágil, permitindo que a equipe de desenvolvimento trabalhe de forma mais eficiente, detecte e corrija problemas mais rapidamente e promova uma maior colaboração. Ao adotar essa prática, as equipes de desenvolvimento podem obter benefícios significativos em termos de qualidade do software, velocidade de entrega e satisfação do cliente.
+
+
+![img](https://github.com/user-attachments/assets/d80e4d44-d2c8-42ba-a5b4-7effe24ae46a)
