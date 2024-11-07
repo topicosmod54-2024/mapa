@@ -16,3 +16,12 @@ Em resumo, a **integração contínua** desempenha um papel fundamental no proce
 
 
 ![img](https://github.com/user-attachments/assets/d80e4d44-d2c8-42ba-a5b4-7effe24ae46a)
+
+
+**Aluna:** Kelly Prone de Oliveira 
+
+**Curso:** Engenharia de Software
+
+**Disciplina:** Tópicos Especiais em Engenharia de Software II
+
+**Ano:** 2024
